@@ -9,8 +9,8 @@
 title: Jekyll
 email: nellysattari@gmail.com
 description: How to adjust your weblog to
-baseurl: "/jekyll-wing-template" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/Jekyll" # the subpath of your site, e.g. /blog
+url: "https://nellysattari.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
