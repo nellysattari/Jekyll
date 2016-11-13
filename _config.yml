@@ -9,11 +9,7 @@
 title: Jekyll
 email: nellysattari@gmail.com
 description: How to adjust your weblog to
-<<<<<<< HEAD
-baseurl: "/Jekyll" # the subpath of your site, e.g. /blog
-=======
 baseurl: "/jekyll" # the subpath of your site, e.g. /blog
->>>>>>> 34fbe67f3cead4a41193a29d1751b622b9dd7efe
 url: "https://nellysattari.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
